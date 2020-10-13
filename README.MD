@@ -23,6 +23,9 @@
     * User can use these to make an emergency changes, safe in the knowledge that the hotfix will only contain your emergency fix
     * There is no risk that you will accidentally merge in new development at the same time.
 
+## GITFLOW VISUAL DEMO(_How it works?_)
+
+
    
 
 
